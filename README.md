@@ -10,6 +10,10 @@ all magento concept
              - bin/magento ca:fl
              - chmod -R 777 var/ pub/ generated/
 
+## Email and Cron Implementation
 
+             - 
+             - 
+             - 
 
 
