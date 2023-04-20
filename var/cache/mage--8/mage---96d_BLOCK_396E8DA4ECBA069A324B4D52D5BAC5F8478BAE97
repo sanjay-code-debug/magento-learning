@@ -1,0 +1,392 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1681995980;s:6:"expire";i:1682082380;s:4:"tags";s:188:"96d_CAT_P,96d_BLOCK_HTML,96d_CAT_P_6,96d_CAT_P_14,96d_CAT_P_15,96d_CAT_P_45,96d_CAT_P_26,96d_CAT_P_29,96d_CAT_P_32,96d_CAT_P_21,96d_CAT_P_33,96d_CAT_P_34,96d_CAT_P_35,96d_CAT_P_22,96d_MAGE";}
+        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://learning.local/fusion-backpack.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-6">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://learning.local/media/catalog/product/cache/cd92c94315cff1653a04afdbfac391b7/m/b/mb02-gray-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Fusion&#x20;Backpack"/></span>
+</span>
+<style>.product-image-container-6 {
+    width: 240px;
+}
+.product-image-container-6 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-6");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-6  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fusion Backpack"
+                                       href="http://learning.local/fusion-backpack.html"
+                                       class="product-item-link">
+                                        Fusion Backpack                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_6"
+                 title="67%">
+                <span><span>67%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemRy0w0W6WArray = document.querySelectorAll('#rating-result_6 span');
+    if(elemRy0w0W6WArray.length !== 'undefined'){
+        elemRy0w0W6WArray.forEach(function(element) {
+            if (element) {
+                element.style.width = '67%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://learning.local/fusion-backpack.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹59.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-MB02" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~/product/6/" method="post">
+                                                            <input type="hidden" name="product" value="6">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0wyZGxZWEl1YUhSdGJBfn4vcHJvZHVjdC82Lw~~">
+                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/learning.local\/wishlist\/index\/add\/","data":{"product":6,"uenc":"aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/learning.local\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://learning.local/push-it-messenger-bag.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-14">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://learning.local/media/catalog/product/cache/cd92c94315cff1653a04afdbfac391b7/w/b/wb04-blue-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Push&#x20;It&#x20;Messenger&#x20;Bag"/></span>
+</span>
+<style>.product-image-container-14 {
+    width: 240px;
+}
+.product-image-container-14 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-14");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-14  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Push It Messenger Bag"
+                                       href="http://learning.local/push-it-messenger-bag.html"
+                                       class="product-item-link">
+                                        Push It Messenger Bag                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_14"
+                 title="67%">
+                <span><span>67%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemchqXNy66Array = document.querySelectorAll('#rating-result_14 span');
+    if(elemchqXNy66Array.length !== 'undefined'){
+        elemchqXNy66Array.forEach(function(element) {
+            if (element) {
+                element.style.width = '67%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://learning.local/push-it-messenger-bag.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="14" data-price-box="product-id-14">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-14-widget-product-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹45.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB04" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~/product/14/" method="post">
+                                                            <input type="hidden" name="product" value="14">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0wyZGxZWEl1YUhSdGJBfn4vcHJvZHVjdC8xNC8~">
+                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/learning.local\/wishlist\/index\/add\/","data":{"product":14,"uenc":"aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/learning.local\/catalog\/product_compare\/add\/","data":{"product":"14","uenc":"aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://learning.local/affirm-water-bottle.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-15">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://learning.local/media/catalog/product/cache/cd92c94315cff1653a04afdbfac391b7/u/g/ug06-lb-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Affirm&#x20;Water&#x20;Bottle&#x20;"/></span>
+</span>
+<style>.product-image-container-15 {
+    width: 240px;
+}
+.product-image-container-15 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-15");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-15  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Affirm Water Bottle "
+                                       href="http://learning.local/affirm-water-bottle.html"
+                                       class="product-item-link">
+                                        Affirm Water Bottle                                     </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_15"
+                 title="60%">
+                <span><span>60%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemE0gyOJFEArray = document.querySelectorAll('#rating-result_15 span');
+    if(elemE0gyOJFEArray.length !== 'undefined'){
+        elemE0gyOJFEArray.forEach(function(element) {
+            if (element) {
+                element.style.width = '60%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://learning.local/affirm-water-bottle.html#reviews">1                &nbsp;<span>Review                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="15" data-price-box="product-id-15">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-15-widget-product-grid"                data-price-amount="7"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">₹7.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-UG06" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~/product/15/" method="post">
+                                                            <input type="hidden" name="product" value="15">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0wyZGxZWEl1YUhSdGJBfn4vcHJvZHVjdC8xNS8~">
+                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/learning.local\/wishlist\/index\/add\/","data":{"product":15,"uenc":"aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/learning.local\/catalog\/product_compare\/add\/","data":{"product":"15","uenc":"aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://learning.local/sprite-yoga-companion-kit.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-45">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://learning.local/media/catalog/product/cache/cd92c94315cff1653a04afdbfac391b7/l/u/luma-yoga-kit-2.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Sprite&#x20;Yoga&#x20;Companion&#x20;Kit"/></span>
+</span>
+<style>.product-image-container-45 {
+    width: 240px;
+}
+.product-image-container-45 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-45");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-45  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Sprite Yoga Companion Kit"
+                                       href="http://learning.local/sprite-yoga-companion-kit.html"
+                                       class="product-item-link">
+                                        Sprite Yoga Companion Kit                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="45" data-price-box="product-id-45">
+            <p class="price-from">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">From</span>
+        <span  id="old-price-45-widget-product-grid"                data-price-amount="61"
+        data-price-type="minPrice"
+        class="price-wrapper "
+    ><span class="price">₹61.00</span></span>
+        </span>
+                    </p>
+        <p class="price-to">
+            
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">To</span>
+        <span  id="old-price-45-widget-product-grid"                data-price-amount="77"
+        data-price-type="maxPrice"
+        class="price-wrapper "
+    ><span class="price">₹77.00</span></span>
+        </span>
+                    </p>
+    </div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WG080" action="http://learning.local/sprite-yoga-companion-kit.html?options=cart" method="post">
+                                                            <input type="hidden" name="product" value="45">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL3Nwcml0ZS15b2dhLWNvbXBhbmlvbi1raXQuaHRtbD9vcHRpb25zPWNhcnQ~">
+                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/learning.local\/wishlist\/index\/add\/","data":{"product":45,"uenc":"aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/learning.local\/catalog\/product_compare\/add\/","data":{"product":"45","uenc":"aHR0cDovL2xlYXJuaW5nLmxvY2FsL2dlYXIuaHRtbA~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
+        <script type="text/x-magento-init">
+    {
+        ".block.widget [data-role=tocart-form]": {
+            "Magento_Catalog/js/validate-product": {}
+        }
+    }
+    </script>
+    
