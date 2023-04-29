@@ -167,4 +167,22 @@ class ProductExtension extends \Magento\Framework\Api\AbstractSimpleObject imple
         $this->setData('discounts', $discounts);
         return $this;
     }
+
+    /**
+     * @return string|null
+     */
+    public function getExaCustom()
+    {
+        return $this->_get('exa_custom');
+    }
+
+    /**
+     * @param string $exaCustom
+     * @return $this
+     */
+    public function setExaCustom($exaCustom)
+    {
+        $this->setData('exa_custom', $exaCustom);
+        return $this;
+    }
 }

@@ -104,4 +104,15 @@ interface ProductExtensionInterface extends \Magento\Framework\Api\ExtensionAttr
      * @return $this
      */
     public function setDiscounts($discounts);
+
+    /**
+     * @return string|null
+     */
+    public function getExaCustom();
+
+    /**
+     * @param string $exaCustom
+     * @return $this
+     */
+    public function setExaCustom($exaCustom);
 }

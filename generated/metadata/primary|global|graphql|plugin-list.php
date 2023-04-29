@@ -678,6 +678,11 @@
         'sortOrder' => 10,
         'instance' => 'Magento\\ConfigurableProduct\\Model\\Plugin\\ProductRepositorySave',
       ),
+      'product_repository_plugin' => 
+      array (
+        'sortOrder' => 0,
+        'instance' => 'Adobe\\ExtensionAttribute\\Plugin\\ProductRepositoryInterface',
+      ),
       'availableProductsFilter' => 
       array (
         'sortOrder' => 0,
@@ -4002,6 +4007,11 @@
       array (
         'sortOrder' => 0,
         'instance' => 'Magento\\Catalog\\Plugin\\RemoveImagesFromGalleryAfterRemovingProduct',
+      ),
+      'product_repository_plugin' => 
+      array (
+        'sortOrder' => 0,
+        'instance' => 'Adobe\\ExtensionAttribute\\Plugin\\ProductRepositoryInterface',
       ),
       'availableProductsFilter' => 
       array (
@@ -7851,7 +7861,15 @@
     array (
       4 => 
       array (
-        0 => 'availableProductsFilter',
+        0 => 'product_repository_plugin',
+        1 => 'availableProductsFilter',
+      ),
+    ),
+    'Magento\\Catalog\\Api\\ProductRepositoryInterface_getList___self' => 
+    array (
+      4 => 
+      array (
+        0 => 'product_repository_plugin',
       ),
     ),
     'Magento\\Catalog\\Api\\ProductRepositoryInterface_save___self' => 
