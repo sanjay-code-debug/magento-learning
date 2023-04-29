@@ -40,4 +40,13 @@ class Interceptor extends \Magento\Catalog\Model\ProductRepository implements \M
         $pluginInfo = $this->pluginList->getNext($this->subjectType, 'delete');
         return $pluginInfo ? $this->___callPlugins('delete', func_get_args(), $pluginInfo) : parent::delete($product);
     }
+
+    /**
+     * {@inheritdoc}
+     */
+    public function getList(\Magento\Framework\Api\SearchCriteriaInterface $searchCriteria)
+    {
+        $pluginInfo = $this->pluginList->getNext($this->subjectType, 'getList');
+        return $pluginInfo ? $this->___callPlugins('getList', func_get_args(), $pluginInfo) : parent::getList($searchCriteria);
+    }
 }

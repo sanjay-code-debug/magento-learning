@@ -1,5 +1,6 @@
 <?php return array (
   'AdobeStock\\Api\\Request\\LicenseFactory' => false,
+  'Adobe\\ExtensionAttribute\\Plugin\\ProductRepositoryInterface' => false,
   'AlignmentSource' => false,
   'AlternativeSourceProcessors' => false,
   'AppearanceSourceBanner' => false,

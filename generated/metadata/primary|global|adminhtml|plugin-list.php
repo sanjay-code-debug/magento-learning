@@ -767,6 +767,11 @@
         'sortOrder' => 10,
         'instance' => 'Magento\\ConfigurableProduct\\Model\\Plugin\\ProductRepositorySave',
       ),
+      'product_repository_plugin' => 
+      array (
+        'sortOrder' => 0,
+        'instance' => 'Adobe\\ExtensionAttribute\\Plugin\\ProductRepositoryInterface',
+      ),
     ),
     'Magento\\ImportExport\\Model\\Import' => 
     array (
@@ -4880,6 +4885,11 @@
       array (
         'sortOrder' => 0,
         'instance' => 'Magento\\Catalog\\Plugin\\RemoveImagesFromGalleryAfterRemovingProduct',
+      ),
+      'product_repository_plugin' => 
+      array (
+        'sortOrder' => 0,
+        'instance' => 'Adobe\\ExtensionAttribute\\Plugin\\ProductRepositoryInterface',
       ),
       'configurableProductSaveOptions' => 
       array (
@@ -9802,6 +9812,20 @@
     'Magento\\Catalog\\Api\\ProductRepositoryInterface_delete___self' => 
     array (
       2 => 'remove_images_from_gallery_after_removing_product',
+    ),
+    'Magento\\Catalog\\Api\\ProductRepositoryInterface_get___self' => 
+    array (
+      4 => 
+      array (
+        0 => 'product_repository_plugin',
+      ),
+    ),
+    'Magento\\Catalog\\Api\\ProductRepositoryInterface_getList___self' => 
+    array (
+      4 => 
+      array (
+        0 => 'product_repository_plugin',
+      ),
     ),
     'Magento\\Catalog\\Api\\ProductRepositoryInterface_save___self' => 
     array (
