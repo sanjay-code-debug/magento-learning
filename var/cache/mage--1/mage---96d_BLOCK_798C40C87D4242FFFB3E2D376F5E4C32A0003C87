@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1681995972;s:6:"expire";i:1682082372;s:4:"tags";s:116:"96d_CAT_P,96d_BLOCK_HTML,96d_CAT_P_1556,96d_CAT_P_1812,96d_CAT_P_694,96d_CAT_P_158,96d_CAT_P_6,96d_CAT_P_14,96d_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1682790220;s:6:"expire";i:1682876620;s:4:"tags";s:116:"96d_CAT_P,96d_BLOCK_HTML,96d_CAT_P_1556,96d_CAT_P_1812,96d_CAT_P_694,96d_CAT_P_158,96d_CAT_P_6,96d_CAT_P_14,96d_MAGE";}
         <div class="block widget block-products-list grid">
                 <div class="block-content">
             <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
@@ -44,9 +44,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="60%">
                 <span><span>60%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elem9LwsWJcxArray = document.querySelectorAll('#rating-result_1556 span');
-    if(elem9LwsWJcxArray.length !== 'undefined'){
-        elem9LwsWJcxArray.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemmEdJNFctArray = document.querySelectorAll('#rating-result_1556 span');
+    if(elemmEdJNFctArray.length !== 'undefined'){
+        elemmEdJNFctArray.forEach(function(element) {
             if (element) {
                 element.style.width = '60%';
 
@@ -113,7 +113,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="WS12" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsLw~~/product/1556/" method="post">
                                                             <input type="hidden" name="product" value="1556">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0x3fn4vcHJvZHVjdC8xNTU2Lw~~">
-                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="b0ZKYJ8sArSLgDxh" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -174,9 +174,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="70%">
                 <span><span>70%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemuogg6DfcArray = document.querySelectorAll('#rating-result_1812 span');
-    if(elemuogg6DfcArray.length !== 'undefined'){
-        elemuogg6DfcArray.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elem26nr0690Array = document.querySelectorAll('#rating-result_1812 span');
+    if(elem26nr0690Array.length !== 'undefined'){
+        elem26nr0690Array.forEach(function(element) {
             if (element) {
                 element.style.width = '70%';
 
@@ -243,7 +243,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="WT09" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsLw~~/product/1812/" method="post">
                                                             <input type="hidden" name="product" value="1812">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0x3fn4vcHJvZHVjdC8xODEyLw~~">
-                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="b0ZKYJ8sArSLgDxh" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -350,7 +350,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="MT07" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsLw~~/product/694/" method="post">
                                                             <input type="hidden" name="product" value="694">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0x3fn4vcHJvZHVjdC82OTQv">
-                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="b0ZKYJ8sArSLgDxh" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -457,7 +457,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="MH07" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsLw~~/product/158/" method="post">
                                                             <input type="hidden" name="product" value="158">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0x3fn4vcHJvZHVjdC8xNTgv">
-                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="b0ZKYJ8sArSLgDxh" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -518,9 +518,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="67%">
                 <span><span>67%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemNyYhNPhaArray = document.querySelectorAll('#rating-result_6 span');
-    if(elemNyYhNPhaArray.length !== 'undefined'){
-        elemNyYhNPhaArray.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemryg7JCRgArray = document.querySelectorAll('#rating-result_6 span');
+    if(elemryg7JCRgArray.length !== 'undefined'){
+        elemryg7JCRgArray.forEach(function(element) {
             if (element) {
                 element.style.width = '67%';
 
@@ -553,7 +553,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="24-MB02" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsLw~~/product/6/" method="post">
                                                             <input type="hidden" name="product" value="6">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0x3fn4vcHJvZHVjdC82Lw~~">
-                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="b0ZKYJ8sArSLgDxh" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -614,9 +614,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="67%">
                 <span><span>67%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemScCk8NI0Array = document.querySelectorAll('#rating-result_14 span');
-    if(elemScCk8NI0Array.length !== 'undefined'){
-        elemScCk8NI0Array.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemRNcWIc9JArray = document.querySelectorAll('#rating-result_14 span');
+    if(elemRNcWIc9JArray.length !== 'undefined'){
+        elemRNcWIc9JArray.forEach(function(element) {
             if (element) {
                 element.style.width = '67%';
 
@@ -649,7 +649,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="24-WB04" action="http://learning.local/checkout/cart/add/uenc/aHR0cDovL2xlYXJuaW5nLmxvY2FsLw~~/product/14/" method="post">
                                                             <input type="hidden" name="product" value="14">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2xlYXJuaW5nLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnhsWVhKdWFXNW5MbXh2WTJGc0x3fn4vcHJvZHVjdC8xNC8~">
-                                                            <input name="form_key" type="hidden" value="Ymqh97WOGNmShmzM" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="b0ZKYJ8sArSLgDxh" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
